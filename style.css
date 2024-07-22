@@ -1,0 +1,52 @@
+body {
+  background-image: url("https://thecitylane.com/wp-content/uploads/2016/09/DSCF2389.jpg");
+  /* object-fit: cover; */
+  background-size: cover;
+  text-align: center;
+  background-color: #F5F7F8;
+}
+
+img {
+  width: 300px;
+  border-radius: 50%;
+}
+
+p {
+font-family: "Montserrat", sans-serif;
+}
+h1, h2 {
+  font-family: "Playwrite DK Uloopet", cursive;
+  color:forestgreen
+}
+h3 {
+  font-family: "Mukta", sans-serif;
+  font-weight: 300;
+}
+
+a {
+  text-decoration: none;
+}
+
+.card {
+  border: 2px solid forestgreen;
+  margin: 10px;
+  background-color: white;
+}
+
+.container {
+  margin: 0 auto;
+  width: 500px;
+}
+
+.five-years-plan {
+  list-style: none;
+  font-family: "mukta", sans-serif;
+}
+
+.socials {
+  list-style: none;
+  display: inline-block;
+  margin: auto;
+  word-spacing: 8px;
+  color: forestgreen;
+}
